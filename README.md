@@ -157,6 +157,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1903-largest-odd-number-in-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [0125-valid-palindrome](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0383-ransom-note) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
 | ------- |
