@@ -67,6 +67,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0287-find-the-duplicate-number](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0128-longest-consecutive-sequence](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0198-house-robber) |
+| [0643-maximum-average-subarray-i](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1813-maximum-erasure-value](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanket-rajput/75-Days-DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
 | ------- |
