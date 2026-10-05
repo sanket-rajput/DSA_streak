@@ -163,6 +163,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1108-defanging-an-ip-address](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1108-defanging-an-ip-address) |
 | [3794-reverse-string-prefix](https://github.com/sanket-rajput/75-Days-DSA/tree/master/3794-reverse-string-prefix) |
 | [0917-reverse-only-letters](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0917-reverse-only-letters) |
+| [0856-score-of-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0856-score-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0145-binary-tree-postorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -314,4 +316,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
