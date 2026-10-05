@@ -149,6 +149,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ğ
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0032-longest-valid-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0022-generate-parentheses) |
 ## String
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ğ
 | [0856-score-of-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0856-score-of-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0032-longest-valid-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -329,4 +331,9 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ğ
 | [0856-score-of-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0856-score-of-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0032-longest-valid-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
