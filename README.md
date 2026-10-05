@@ -147,6 +147,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0118-pascals-triangle](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0198-house-robber) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [3794-reverse-string-prefix](https://github.com/sanket-rajput/75-Days-DSA/tree/master/3794-reverse-string-prefix) |
 | [0917-reverse-only-letters](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0917-reverse-only-letters) |
 | [0856-score-of-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0856-score-of-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,12 +183,14 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0232-implement-queue-using-stacks](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0856-score-of-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [0055-jump-game](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -320,4 +324,5 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0856-score-of-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
