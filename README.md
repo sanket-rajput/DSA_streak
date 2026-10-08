@@ -68,6 +68,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0128-longest-consecutive-sequence](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0198-house-robber) |
 | [0643-maximum-average-subarray-i](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0455-assign-cookies](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0876-middle-of-the-linked-list](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/sanket-rajput/75-Days-DSA/tree/master/3794-reverse-string-prefix) |
 | [0917-reverse-only-letters](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0917-reverse-only-letters) |
+| [0455-assign-cookies](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [0347-top-k-frequent-elements](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0015-3sum](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +204,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 | [1903-largest-odd-number-in-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0455-assign-cookies](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -343,4 +347,8 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ð
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
