@@ -175,6 +175,7 @@ Would you like help setting up a **Notion tracker** or **automating commits**? ğ
 | [0022-generate-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0022-generate-parentheses) |
 | [0020-valid-parentheses](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanket-rajput/75-Days-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sanket-rajput/75-Days-DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
